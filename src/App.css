@@ -1,0 +1,16 @@
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shopping-card {
+  justify-content: space-between;
+  background-color: rgb(25, 251, 0);
+  padding: 20px 30px;
+}
+
+.product-item {
+  color: rgb(255, 0, 0);
+  padding: 100px;
+}
